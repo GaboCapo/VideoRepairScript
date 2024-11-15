@@ -1,3 +1,6 @@
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 # Video Repair Script
 
 This project provides a Bash script for scanning and repairing video files in a folder. It attempts to fix corrupted video files by applying various FFmpeg-based repair modes until the file is confirmed error-free. The script is useful for fixing files that may have been corrupted during encoding or transfer. ⚠️ **Please test this script thoroughly before using it in production, as it may alter files permanently.** ⚠️ 
