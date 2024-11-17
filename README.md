@@ -12,7 +12,7 @@ This project provides a Bash script for scanning and repairing video files in a 
 - **🗑️ Original File Management**: Option to delete the original file after a successful repair.
 
 ## Prerequisites
-- **FFmpeg**: The script requires FFmpeg to be installed on your system. You can install it on Ubuntu using:
+- **FFmpeg**: The script requires FFmpeg to be installed on your system. You can install it:
 
 Ubuntu,Debian based Systems
   ```
